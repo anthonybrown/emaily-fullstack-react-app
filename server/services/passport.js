@@ -15,4 +15,4 @@ passport.use(new GoogleStrategy(
       console.log('PROFILE: ', profile)
     }
   )
-);
+)
